@@ -16,6 +16,6 @@ I'm a developer passionate about making things work better—usually with **C++*
 - Building **tools** and **cross-platform projects**
 
 ### ☕ Fun Fact
-- I live in my terminal—and occasionally visit the GUI.  
+- I live in my terminal and occasionally visit the GUI.  
 - Why click buttons when you can type them?  
 - Often balancing code, coffee, and coursework.
