@@ -3,8 +3,8 @@
 I'm a developer passionate about making things work better—usually with **C++**, **C**, **Rust**, and a dash of **Python** and **Lua**.
 
 ### 🚀 Currently Working On
-- **[OpenTwin](https://github.com/OT-OpenTwin/OpenTwin)**
-- **[runa](https://github.com/alexm-dev/runa)** - a terminal UI filebrowser in Rust to make workflows smoother.
+- **[OpenTwin](https://github.com/OT-OpenTwin/OpenTwin)** - Primary focus
+- **[runa](https://github.com/alexm-dev/runa)** - A passion project: a terminal UI filebrowser in Rust to make workflows smoother.
 
 ### 🧰 Languages & Tools
 - **Primary:** C, C++, Rust  
