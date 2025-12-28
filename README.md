@@ -2,11 +2,11 @@
 
 I'm a developer passionate about making things work better—usually with C, C++, Rust, and a dash of Python and Lua.
 
-#### 🚀 Currently Working On
+### 🚀 Currently Working On
 - **[OpenTwin](https://github.com/OT-OpenTwin/OpenTwin)** - Primary focus
 - **[runa](https://github.com/alexm-dev/runa)** - A passion project: a terminal UI filebrowser in Rust to make workflows smoother.
 
-#### 🧰 Languages & Tools
+### 🧰 Languages & Tools
 - **Primary:** C, C++, Rust  
 - **Also Enjoy:** Lua, Python  
 - **Learning Next:** Go  
@@ -19,5 +19,5 @@ I'm a developer passionate about making things work better—usually with C, C++
 - I live in my terminal and occasionally visit the GUI.  
 - Often balancing code, coffee, and coursework.
 
-### 💡 Quote
+### 💡 Quote I live by
 - "Why click buttons when you can type them?"
